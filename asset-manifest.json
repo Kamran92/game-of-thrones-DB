@@ -1,7 +1,7 @@
 {
   "main.css": "/game-of-thrones-DB/static/css/main.1f70f6bc.chunk.css",
-  "main.js": "/game-of-thrones-DB/static/js/main.f1164e3e.chunk.js",
-  "main.js.map": "/game-of-thrones-DB/static/js/main.f1164e3e.chunk.js.map",
+  "main.js": "/game-of-thrones-DB/static/js/main.909f91e0.chunk.js",
+  "main.js.map": "/game-of-thrones-DB/static/js/main.909f91e0.chunk.js.map",
   "static/css/1.52884d75.chunk.css": "/game-of-thrones-DB/static/css/1.52884d75.chunk.css",
   "static/js/1.80729a4d.chunk.js": "/game-of-thrones-DB/static/js/1.80729a4d.chunk.js",
   "static/js/1.80729a4d.chunk.js.map": "/game-of-thrones-DB/static/js/1.80729a4d.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/css/main.1f70f6bc.chunk.css.map": "/game-of-thrones-DB/static/css/main.1f70f6bc.chunk.css.map",
   "static/css/1.52884d75.chunk.css.map": "/game-of-thrones-DB/static/css/1.52884d75.chunk.css.map",
   "index.html": "/game-of-thrones-DB/index.html",
-  "precache-manifest.c763aabd2b88ff9e42ef17c5010e9808.js": "/game-of-thrones-DB/precache-manifest.c763aabd2b88ff9e42ef17c5010e9808.js",
+  "precache-manifest.47ec37e54c173b5004ebd5ed7a452f5f.js": "/game-of-thrones-DB/precache-manifest.47ec37e54c173b5004ebd5ed7a452f5f.js",
   "service-worker.js": "/game-of-thrones-DB/service-worker.js"
 }
