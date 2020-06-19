@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "449b9f8c2833ffd96c53",
+    "revision": "e6c2c31a87e7daf3b635",
     "url": "/game-of-thrones-DB/static/css/main.1f70f6bc.chunk.css"
   },
   {
-    "revision": "449b9f8c2833ffd96c53",
-    "url": "/game-of-thrones-DB/static/js/main.449b9f8c.chunk.js"
+    "revision": "e6c2c31a87e7daf3b635",
+    "url": "/game-of-thrones-DB/static/js/main.e6c2c31a.chunk.js"
   },
   {
     "revision": "7942467dd9a6fea5951d",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/game-of-thrones-DB/static/media/got.4da81083.jpeg"
   },
   {
-    "revision": "fd3b79d86b4b58b5433f3f5911203be2",
+    "revision": "5622a09b696cf6a5f6793704838e4271",
     "url": "/game-of-thrones-DB/index.html"
   }
 ];
