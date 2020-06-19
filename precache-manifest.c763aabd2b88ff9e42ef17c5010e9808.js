@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e6c2c31a87e7daf3b635",
+    "revision": "f1164e3ed831a1dbb644",
     "url": "/game-of-thrones-DB/static/css/main.1f70f6bc.chunk.css"
   },
   {
-    "revision": "e6c2c31a87e7daf3b635",
-    "url": "/game-of-thrones-DB/static/js/main.e6c2c31a.chunk.js"
+    "revision": "f1164e3ed831a1dbb644",
+    "url": "/game-of-thrones-DB/static/js/main.f1164e3e.chunk.js"
   },
   {
-    "revision": "7942467dd9a6fea5951d",
+    "revision": "80729a4dab078c00c68f",
     "url": "/game-of-thrones-DB/static/css/1.52884d75.chunk.css"
   },
   {
-    "revision": "7942467dd9a6fea5951d",
-    "url": "/game-of-thrones-DB/static/js/1.7942467d.chunk.js"
+    "revision": "80729a4dab078c00c68f",
+    "url": "/game-of-thrones-DB/static/js/1.80729a4d.chunk.js"
   },
   {
     "revision": "8b55067b17a5900115b1",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/game-of-thrones-DB/static/media/got.4da81083.jpeg"
   },
   {
-    "revision": "5622a09b696cf6a5f6793704838e4271",
+    "revision": "d174ba81e4c0301679dcf4ca02783ea0",
     "url": "/game-of-thrones-DB/index.html"
   }
 ];
